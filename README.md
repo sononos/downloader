@@ -81,8 +81,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [archive_20260505_094036](https://github.com/sononos/downloader/tree/main/downloads/archive_20260505_094036)
+1. [DLSS.Swapper-1.2.3.2-portable](https://github.com/sononos/downloader/tree/main/downloads/DLSS.Swapper-1.2.3.2-portable)
+
+2. [archive_20260505_094036](https://github.com/sononos/downloader/tree/main/downloads/archive_20260505_094036)
 
 ---
