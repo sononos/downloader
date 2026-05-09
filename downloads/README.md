@@ -6,6 +6,7 @@
 - [DLSS.Swapper-1.2.3.2-portable](./DLSS.Swapper-1.2.3.2-portable)
 - [Hey_Stranger_I_Dare_You_to_Love_Me_v0.71](./Hey_Stranger_I_Dare_You_to_Love_Me_v0.71)
 - [HymXSYLh](./HymXSYLh)
+- [KonDYR5X](./KonDYR5X)
 - [PUsidayW](./PUsidayW)
 - [Q5foX5iD](./Q5foX5iD)
 - [START-185-DC-ENG](./START-185-DC-ENG)
